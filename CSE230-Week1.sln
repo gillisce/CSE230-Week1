@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Changing Form Shapes", "CSE230-Week1\Changing Form Shapes.csproj", "{FA208279-DAF9-4FD2-90BD-D1F02E228504}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adding Controls at Runtime", "Adding Controls at Runtime\Adding Controls at Runtime.csproj", "{CFC3AA07-D5A2-4F5F-9CB9-C72E6FF10EA8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlowLayoutPanel", "FlowLayoutPanel\FlowLayoutPanel.csproj", "{1EDCE86E-0C9B-49E9-BB8F-5F8A52845AC8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Table layout Panel", "Table layout Panel\Table layout Panel.csproj", "{FCBD99AC-9A45-43A9-81E7-47130A438D1B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TabControls", "TabControls\TabControls.csproj", "{6CC5FC4F-73B2-45B0-B2DC-AB64DC6E4316}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SplitControlContainer", "SplitControlContainer\SplitControlContainer.csproj", "{9FAEF4D1-C6F4-45C2-B116-1794F709E8A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA208279-DAF9-4FD2-90BD-D1F02E228504}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA208279-DAF9-4FD2-90BD-D1F02E228504}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA208279-DAF9-4FD2-90BD-D1F02E228504}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA208279-DAF9-4FD2-90BD-D1F02E228504}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFC3AA07-D5A2-4F5F-9CB9-C72E6FF10EA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFC3AA07-D5A2-4F5F-9CB9-C72E6FF10EA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFC3AA07-D5A2-4F5F-9CB9-C72E6FF10EA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFC3AA07-D5A2-4F5F-9CB9-C72E6FF10EA8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1EDCE86E-0C9B-49E9-BB8F-5F8A52845AC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EDCE86E-0C9B-49E9-BB8F-5F8A52845AC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EDCE86E-0C9B-49E9-BB8F-5F8A52845AC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EDCE86E-0C9B-49E9-BB8F-5F8A52845AC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCBD99AC-9A45-43A9-81E7-47130A438D1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCBD99AC-9A45-43A9-81E7-47130A438D1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCBD99AC-9A45-43A9-81E7-47130A438D1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCBD99AC-9A45-43A9-81E7-47130A438D1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CC5FC4F-73B2-45B0-B2DC-AB64DC6E4316}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CC5FC4F-73B2-45B0-B2DC-AB64DC6E4316}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CC5FC4F-73B2-45B0-B2DC-AB64DC6E4316}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CC5FC4F-73B2-45B0-B2DC-AB64DC6E4316}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FAEF4D1-C6F4-45C2-B116-1794F709E8A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FAEF4D1-C6F4-45C2-B116-1794F709E8A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FAEF4D1-C6F4-45C2-B116-1794F709E8A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FAEF4D1-C6F4-45C2-B116-1794F709E8A2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7B5BC995-F8EB-4D95-9E02-8A640D9479F4}
+	EndGlobalSection
+EndGlobal
